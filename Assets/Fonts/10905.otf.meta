@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 37cd09f94f818b742af486c23f524359
+timeCreated: 1516020301
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lemon/Milk(RUS BY LYAJKA)
+  fontNames:
+  - Lemon/Milk(RUS BY LYAJKA)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
